@@ -1,5 +1,5 @@
 deploy:
   type: git
-  repo: https://wlphp.github.io/hexo/
+  repo: https://github.com/wlphp/hexo.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
