@@ -1,3 +1,4 @@
+theme: miho
 deploy:
   type: git
   repo: https://github.com/wlphp/hexo.git
